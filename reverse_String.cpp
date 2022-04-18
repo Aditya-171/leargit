@@ -17,6 +17,7 @@ cout<<s[0];
 
 int main()
 {
+    // Main function for the recursion
 revn("Aditya");
 return 0;
 
